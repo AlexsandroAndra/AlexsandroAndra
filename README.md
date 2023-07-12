@@ -16,6 +16,10 @@
 <img align="center"alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center"alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center"alt="html5"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<br><br>
+
+ <img
+        src="https://media0.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47bp9qy1i20xk4o23ps9m1q3sfynnorpo722m2kjgp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 </div><br/>
 Programar Muda o Mundo!
